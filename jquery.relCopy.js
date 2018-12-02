@@ -3,7 +3,7 @@
  * Based on relCopy by Andres Vidal <http://www.andresvidal.com/labs/relcopy.html>
  * 
  * @author: Sujeet Kumar <sujeetkv90@gmail.com>
- * @link https://github.com/sujeet-kumar/jquery-relcopy
+ * @link https://github.com/sujeetkv/jquery-relcopy
  * 
  * Example:
  * $('a.add-more').relCopy({limit: 5}); // <a href="example.com" class="add-more" rel=".phone">Copy Phone</a>
